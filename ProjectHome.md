@@ -1,0 +1,1 @@
+<h2>The project moved to <a href='https://github.com/lokad/lokad-sdk/'>github.com/lokad/lokad-sdk</a></h2>
